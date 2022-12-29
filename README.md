@@ -61,4 +61,22 @@ Complete Machine Learning &amp; Data Science Bootcamp by Andrei Neagoie
    - What have we tried / what else ca we try?
 3. Deployment
 
+### 18. Types of Machine Learning Problems
+
+- Supervised learning: "I know my inputs and outputs"
+  - classification
+    - binary classification: two options
+    - multi-class classification: more than two options
+  - refression
+    - predict numbers
+- Unsupervised learning: "I'm not sure of the outputs but I have inputs"
+  - cluster
+- Transfer learning: "I think my problem may be similar to something else"
+- Reinforcement learning
+  - real-time learning: e.g Alphago
+
+#### When shouldn't you use machine learning?
+
+- Will a simple hand-coded instruction based system work?
+
 </details>
