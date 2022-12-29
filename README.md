@@ -41,4 +41,24 @@ Complete Machine Learning &amp; Data Science Bootcamp by Andrei Neagoie
 2. Match to data science and machine learning tools
 3. Learn by doing
 
+### 17. 6 Step Machine Learning Framework
+
+[A 6 Step Field Guide for Building Machine Learning Projects](https://www.mrdbourke.com/a-6-step-field-guide-for-building-machine-learning-projects/)
+
+1. Data collection
+2. Data modelling
+   1. Problem definition
+   - What problem are we trying to solve?
+   2. Data
+   - What data do we have?
+   3. Evaluation
+   - What defines success
+   4. Features
+   - What features should we model?
+   5. Modelling
+   - What kind of model should we use?
+   6. Experimentation
+   - What have we tried / what else ca we try?
+3. Deployment
+
 </details>
