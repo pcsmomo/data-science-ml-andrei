@@ -33,4 +33,12 @@ Complete Machine Learning &amp; Data Science Bootcamp by Andrei Neagoie
   - skill acquisition
   - real time learning
 
+## Section 3: Machine Learning and Data Science Framework
+
+## 16. Introducing Our Framework
+
+1. Create a framework
+2. Match to data science and machine learning tools
+3. Learn by doing
+
 </details>
