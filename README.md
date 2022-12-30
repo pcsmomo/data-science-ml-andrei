@@ -167,4 +167,24 @@ Generalization: The ability for a machine learning model to perform well on data
 - Compare apples to apples
 - One best performance metric does not equal best model
 
+### 28. Tools We Will Use
+
+- Overall
+  - Anaconda
+  - Jypiter
+- Data anaysis
+  - Pandas
+  - matplotlib
+  - NumPy
+- Machine learning
+  - TensorFlow
+  - PyTorch
+  - Scikit-learn
+  - CatBoost
+  - dmlc/XGBoost
+
+### 29. Optional: Elements of AI
+
+[Elements of AI](https://www.elementsofai.com/)
+
 </details>
