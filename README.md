@@ -113,4 +113,58 @@ Feature engineering: Looking at different features of data and creating new ones
 
 Feature Coverage: How many samples have different features? Ideally, every sample has the same featuers
 
+### 22. Modelling - Splitting Data
+
+#### 3 parts to modelling
+
+1. Choosing and training a model - training data
+2. Tuning a model - validation data
+3. Model comparison - test data
+
+#### The most important concept in machine learning: The 3 sets
+
+- Training (Course materials): eg. 70-80%
+- Validation (Practice exam: eg. 10-15%)
+- Test (Final exam: eg. 10-15%)
+
+Generalization: The ability for a machine learning model to perform well on data it hasn't seen before
+
+### 23. Modelling - Picking the Model
+
+- Structured Data
+  - CarBoost
+  - Random Forest
+- Unstructured Data
+  - Deep Learning
+  - Transfer Learning
+
+> Goal! Minimise time between experiments
+
+### 25. Modelling - Comparison
+
+- Underfitting
+  - Training: 64%, Test: 47%
+- Balanced (Goldilocks zone)
+  - Training: 98%, Test: 96%
+- Overfitting
+  - Training: 93%, Test: 99%
+
+#### Fixes for overfitting and underfitting
+
+- Underfitting
+  - Try a more advanced model
+  - Increase model hyperparameters
+  - Reduce amount of features
+  - Train longer
+- Overfitting
+  - Collect more data
+  - Try a less advanced model
+
+#### Things to remember
+
+- Want to avoid overfitting and underfitting (head towards generality)
+- Keep the test set separate at all costs
+- Compare apples to apples
+- One best performance metric does not equal best model
+
 </details>
