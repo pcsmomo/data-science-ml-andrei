@@ -187,4 +187,37 @@ Generalization: The ability for a machine learning model to perform well on data
 
 [Elements of AI](https://www.elementsofai.com/)
 
+## Section 5: Data Science Environment Setup
+
+### 35. What is Conda?
+
+- Anaconda:
+- miniconda:
+- Conda : package manager
+
+### 37. Mac Environment Setup
+
+```sh
+# Install miniconda
+sh /Users/noah/Downloads/Miniconda3-latest-MacOSX-arm64.sh
+# miniconda3 is installed in ~/miniconda3
+# and also it will add conda setup to my ~/.zshrc file
+
+# Create a virtual environment
+(base) %
+conda create --prefix ./env pandas numpy matplotlib scikit-learn
+
+# To activate this environment, use
+#
+#     $ conda activate /Users/noah/Documents/study/study_codes/udemy/data-science-ml-andrei/data-science-ml-andrei-git/env
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+```
+
+#### to remove (base)
+
+delete conda setup in `~/.zshrc`
+
 </details>
