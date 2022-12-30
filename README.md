@@ -220,4 +220,11 @@ conda create --prefix ./env pandas numpy matplotlib scikit-learn
 
 delete conda setup in `~/.zshrc`
 
+### 38. Mac Environment Setup 2
+
+```sh
+conda install jupyter
+jupyter notebook
+```
+
 </details>

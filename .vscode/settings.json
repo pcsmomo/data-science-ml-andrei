@@ -1,0 +1,9 @@
+{
+  "[python]": {
+    "editor.defaultFormatter": null,
+    "editor.tabSize": 4,
+    "editor.formatOnSave": true
+  },
+  "python.defaultInterpreterPath": "/Users/noah/Documents/study/study_codes/udemy/data-science-ml-andrei/data-science-ml-andrei-git/env/bin/python",
+  "python.analysis.extraPaths": ["app", "another/path/etc"]
+}
