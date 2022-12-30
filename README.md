@@ -79,4 +79,38 @@ Complete Machine Learning &amp; Data Science Bootcamp by Andrei Neagoie
 
 - Will a simple hand-coded instruction based system work?
 
+### 19. Types of Data
+
+#### Structured/Unstructured
+
+- Structured
+  - excel, csv, etc.
+- Unstructured
+  - images?
+
+#### dd
+
+- Static
+  - csv
+- Streaming
+
+### 20. Types of Evaluation
+
+| Classification | Regression                     | Recommendation |
+| -------------- | ------------------------------ | -------------- |
+| Accuracy       | Mean Absolute Error (MAE)      | Precision at K |
+| Precision      | Mean Squared Error (MSE)       |                |
+| Recall         | Root mean squared error (RMSE) |                |
+
+### 21. Features In Data
+
+- Numerical features
+- Categorical features
+
+Feature engineering: Looking at different features of data and creating new ones/altering existing ones
+
+#### What features should you use?
+
+Feature Coverage: How many samples have different features? Ideally, every sample has the same featuers
+
 </details>
