@@ -45,6 +45,8 @@ Complete Machine Learning &amp; Data Science Bootcamp by Andrei Neagoie
 
 [A 6 Step Field Guide for Building Machine Learning Projects](https://www.mrdbourke.com/a-6-step-field-guide-for-building-machine-learning-projects/)
 
+![6-step-ml-framework](./resources/images/6-step-ml-framework.png)
+
 1. Data collection
 2. Data modelling
    1. Problem definition
@@ -238,5 +240,9 @@ conda env export --prefix ./env > environment.yml
 # this will install the env_form_file in ~/miniconda3/envs
 conda env create --file environment.yml --prefix ./env_from_file
 ```
+
+### 43. Jupyter Notebook Walkthrough
+
+`.ipynb` is the old name of jupyter notebook file
 
 </details>
