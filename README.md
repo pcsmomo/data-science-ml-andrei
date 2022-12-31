@@ -260,4 +260,10 @@ conda env create --file environment.yml --prefix ./env_from_file
 - Shift + Enter: Run Cells and select below
 - Opt + Enter: Run Cells and insert below
 
+## Section 6: Pandas: Data Analysis
+
+### 49. Series, Data Frames and CSVs
+
+![anatomy-of-a-dataframe](./resources/images/pandas-anatomy-of-a-dataframe.png)
+
 </details>
