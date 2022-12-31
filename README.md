@@ -245,4 +245,19 @@ conda env create --file environment.yml --prefix ./env_from_file
 
 `.ipynb` is the old name of jupyter notebook file
 
+### 44. Jupyter Notebook Walkthrough 2
+
+#### Short-cuts
+
+- Command mode: Escape
+- Input mode: Enter
+- m (in command mode): to Markdown
+- y (in command mode): to Code
+- a: insert cell above
+- b: insert cell above
+- d, d: line delete
+- Ctrl + Enter: Run Cells
+- Shift + Enter: Run Cells and select below
+- Opt + Enter: Run Cells and insert below
+
 </details>
