@@ -227,4 +227,16 @@ conda install jupyter
 jupyter notebook
 ```
 
+### 42. Sharing your Conda Environment
+
+```sh
+# export
+conda env export --prefix ./env > environment.yml
+
+# create env from the env file
+# conda env create --file environment.yml --name env_from_file
+# this will install the env_form_file in ~/miniconda3/envs
+conda env create --file environment.yml --prefix ./env_from_file
+```
+
 </details>
