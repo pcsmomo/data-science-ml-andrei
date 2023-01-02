@@ -2,6 +2,10 @@
 
 Complete Machine Learning &amp; Data Science Bootcamp by Andrei Neagoie
 
+> If we want to review all curriculums in jupyter notebook, \
+> check https://github.com/mrdbourke/zero-to-mastery-ml.git \
+> super-well-organized!
+
 ## Folder structure
 
 -
