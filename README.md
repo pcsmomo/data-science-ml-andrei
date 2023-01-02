@@ -270,4 +270,13 @@ conda env create --file environment.yml --prefix ./env_from_file
 
 ![anatomy-of-a-dataframe](./resources/images/pandas-anatomy-of-a-dataframe.png)
 
+## Section 7: NumPy
+
+### 60. NumPy Introduction
+
+- It's fast
+- Behind the scenes optimizations written in C
+- Vectorization via broadcasting (avoiding loops)
+- Backbone of other Pythen scientific packages
+
 </details>
