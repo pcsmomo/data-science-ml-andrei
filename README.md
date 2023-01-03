@@ -297,4 +297,8 @@ conda env create --file environment.yml --prefix ./env_from_file
   - More than 1-dimentional
   - Shape = (3, 2, 3)
 
+### 66. Manipulating Arrays
+
+[Numpy Broadcast Rule](https://numpy.org/doc/stable/user/basics.broadcasting.html)
+
 </details>
