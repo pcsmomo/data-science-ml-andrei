@@ -263,6 +263,7 @@ conda env create --file environment.yml --prefix ./env_from_file
 - Ctrl + Enter: Run Cells
 - Shift + Enter: Run Cells and select below
 - Opt + Enter: Run Cells and insert below
+- Shift + Tab: display a hint
 
 ## Section 6: Pandas: Data Analysis
 
