@@ -280,4 +280,21 @@ conda env create --file environment.yml --prefix ./env_from_file
 - Vectorization via broadcasting (avoiding loops)
 - Backbone of other Pythen scientific packages
 
+### 65. Viewing Arrays and Matrices
+
+[numpy.unique documentation](https://numpy.org/doc/stable/reference/generated/numpy.unique.html)
+
+- a1
+  - Names: Array, ventor
+  - 1-dimentional
+  - Shape = (1, 3)
+- a2
+  - Names: Array, matrix
+  - More than 1-dimentional
+  - Shape = (2, 3)
+- a3
+  - Names: Array, matrix
+  - More than 1-dimentional
+  - Shape = (3, 2, 3)
+
 </details>
