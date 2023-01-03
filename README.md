@@ -301,4 +301,37 @@ conda env create --file environment.yml --prefix ./env_from_file
 
 [Numpy Broadcast Rule](https://numpy.org/doc/stable/user/basics.broadcasting.html)
 
+### 67. Manipulating Arrays 2
+
+#### Aggregation
+
+```py
+%timeit sum(massive_array) # Python's sum()
+# 3.77 ms ± 120 µs per loop (mean ± std. dev. of 7 runs, 100 loops each)
+%timeit np.sum(massive_array) # NumPy's sum()
+# 20.2 µs ± 94.8 ns per loop (mean ± std. dev. of 7 runs, 10,000 loops each)
+```
+
+> NumPy's been optimized for numerical calculation so it's so much faster. \
+> So when you can use numpy functions, use numpy one!
+
+#### Standard deviation
+
+a measure of how spread out a group of numbers is from the mean
+
+```py
+np.std(a2)
+```
+
+#### Variance
+
+a measure of the avaerage degree to which each number is different to the mean
+
+- Higher variance = wider range of numbers
+- Logher variance = lower range of numbers
+
+```py
+np.var(a2)
+```
+
 </details>
