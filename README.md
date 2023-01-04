@@ -339,4 +339,20 @@ np.var(a2)
 - [Matrix Multiplication Website](http://matrixmultiplication.xyz/)
 - [Matrix Multiplying Explanation](https://www.mathsisfun.com/algebra/matrix-multiplying.html)
 
+### 71. Exercise: Nut Butter Store Sales
+
+|       | Almont butter | Peanut butter | Cashew butter | Total ($) |
+| ----- | ------------- | ------------- | ------------- | --------- |
+| Mon   | 2             | 7             | 1             | 88        |
+| Tues  | 9             | 4             | 16            | 314       |
+| Wed   | 11            | 14            | 18            | 438       |
+| Thurs | 13            | 13            | 16            | 426       |
+| Fri   | 15            | 18            | 9             | 402       |
+
+|       | Almont butter | Peanut butter | Cashew butter |
+| ----- | ------------- | ------------- | ------------- |
+| Price | 10            | 8             | 12            |
+
+!Calculate Total ($) using numpy dot product
+
 </details>
