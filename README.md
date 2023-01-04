@@ -334,4 +334,9 @@ a measure of the avaerage degree to which each number is different to the mean
 np.var(a2)
 ```
 
+### 70. Dot Product vs Element Wise
+
+- [Matrix Multiplication Website](http://matrixmultiplication.xyz/)
+- [Matrix Multiplying Explanation](https://www.mathsisfun.com/algebra/matrix-multiplying.html)
+
 </details>
