@@ -355,4 +355,8 @@ np.var(a2)
 
 !Calculate Total ($) using numpy dot product
 
+### 72. Comparison Operators
+
+[NumPy Logic functions](https://numpy.org/doc/stable/reference/routines.logic.html)
+
 </details>
