@@ -359,4 +359,8 @@ np.var(a2)
 
 [NumPy Logic functions](https://numpy.org/doc/stable/reference/routines.logic.html)
 
+### 77. Optional: Extra NumPy resources
+
+[A Visual Introduction to NumPy by Jay Alammar](http://jalammar.github.io/visual-numpy/)
+
 </details>
