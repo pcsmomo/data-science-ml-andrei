@@ -129,6 +129,9 @@ dmypy.json
 .pyre/
 
 # large image files
-07-numpy/images
+/images/*.png
+/images/*.jpeg
 
 # large data files
+/data/dog-vision*
+/data/bluebook*

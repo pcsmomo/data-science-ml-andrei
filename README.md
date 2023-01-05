@@ -49,7 +49,7 @@ Complete Machine Learning &amp; Data Science Bootcamp by Andrei Neagoie
 
 [A 6 Step Field Guide for Building Machine Learning Projects](https://www.mrdbourke.com/a-6-step-field-guide-for-building-machine-learning-projects/)
 
-![6-step-ml-framework](./resources/images/6-step-ml-framework.png)
+![6-step-ml-framework](./images-for-summary/ml101-6-step-ml-framework.png)
 
 1. Data collection
 2. Data modelling
@@ -94,7 +94,7 @@ Complete Machine Learning &amp; Data Science Bootcamp by Andrei Neagoie
 - Unstructured
   - images?
 
-#### dd
+#### Static/Streaming
 
 - Static
   - csv
@@ -269,7 +269,7 @@ conda env create --file environment.yml --prefix ./env_from_file
 
 ### 49. Series, Data Frames and CSVs
 
-![anatomy-of-a-dataframe](./resources/images/pandas-anatomy-of-a-dataframe.png)
+![anatomy-of-a-dataframe](./images-for-summary/pandas-anatomy-of-a-dataframe.png)
 
 ## Section 7: NumPy
 
