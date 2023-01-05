@@ -363,4 +363,11 @@ np.var(a2)
 
 [A Visual Introduction to NumPy by Jay Alammar](http://jalammar.github.io/visual-numpy/)
 
+## Section 8: Matplotlib: Plotting and Data Visualization
+
+### 80. Importing And Using Matplotlib
+
+- [matplotlib lifecycle](https://matplotlib.org/stable/tutorials/introductory/lifecycle.html)
+- In general, try to use the Object-Oriented interface over the pyplot interface
+
 </details>
