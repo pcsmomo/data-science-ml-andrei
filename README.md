@@ -374,4 +374,8 @@ np.var(a2)
 
 ![anatomy-of-a-metplatlib-figure](./images-for-summary/matplotlib-anatomy-of-a-plot-with-code.png)
 
+### 86. Plotting From Pandas DataFrames
+
+[Pandas Chart Vusialization](https://pandas.pydata.org/docs/user_guide/visualization.html)
+
 </details>
