@@ -370,4 +370,8 @@ np.var(a2)
 - [matplotlib lifecycle](https://matplotlib.org/stable/tutorials/introductory/lifecycle.html)
 - In general, try to use the Object-Oriented interface over the pyplot interface
 
+### 81. Anatomy Of A Matplotlib Figure
+
+![anatomy-of-a-metplatlib-figure](./images-for-summary/matplotlib-anatomy-of-a-plot-with-code.png)
+
 </details>
