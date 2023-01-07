@@ -374,6 +374,28 @@ np.var(a2)
 
 ![anatomy-of-a-metplatlib-figure](./images-for-summary/matplotlib-anatomy-of-a-plot-with-code.png)
 
+### 82. Scatter Plot And Bar Plot
+
+Examples to create mock data
+
+```py
+# Create some data
+x = np.linspace(0, 10, 100)
+x[:10]
+
+# Plot the data and create a line plot
+fig, ax = plt.subplots()
+ax.plot(x, x**2)
+
+# Use same data to create a scatter plot
+fig, ax = plt.subplots()
+ax.scatter(x, np.exp(x))
+
+# Another scatter plot
+fig, ax = plt.subplots()
+ax.scatter(x, np.sin(x))
+```
+
 ### 86. Plotting From Pandas DataFrames
 
 [Pandas Chart Vusialization](https://pandas.pydata.org/docs/user_guide/visualization.html)
