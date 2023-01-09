@@ -400,4 +400,8 @@ ax.scatter(x, np.sin(x))
 
 [Pandas Chart Vusialization](https://pandas.pydata.org/docs/user_guide/visualization.html)
 
+### 95. Customizing Your Plots 2
+
+[matplotlib colormap reference](https://matplotlib.org/stable/gallery/color/colormap_reference.html)
+
 </details>
