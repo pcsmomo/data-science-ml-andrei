@@ -404,4 +404,13 @@ ax.scatter(x, np.sin(x))
 
 [matplotlib colormap reference](https://matplotlib.org/stable/gallery/color/colormap_reference.html)
 
+### 96. Saving And Sharing Your Plots
+
+```py
+fig, (ax0, ax1) = plt.subplots(nrows=2,
+                               ncols=1,
+                               figsize=(10, 10))
+fig.savefig("heart-disease-analysis-plot-saved-with-code.png")
+```
+
 </details>
