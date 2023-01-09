@@ -413,4 +413,17 @@ fig, (ax0, ax1) = plt.subplots(nrows=2,
 fig.savefig("heart-disease-analysis-plot-saved-with-code.png")
 ```
 
+## Section 9: Scikit-learn: Creating Machine Learning Models
+
+### 99. Scikit-learn Introduction
+
+- An end-to-end Scikit-Learn workflow
+- Getting data ready (to be used with machine learning models)
+- Choosing a machine learning model
+- Fitting a model to the data (learning patterns)
+- Making predictions with a model (using patterns)
+- Evaluating model predictions
+- Improving model predictions
+- Saving and loading models
+
 </details>
