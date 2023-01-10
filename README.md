@@ -426,4 +426,16 @@ fig.savefig("heart-disease-analysis-plot-saved-with-code.png")
 - Improving model predictions
 - Saving and loading models
 
+### 105. Optional: Debugging Warnings In Jupyter
+
+```sh
+conda activate ./env
+conda list
+conda update scikit-learn
+conda list scikit-learn
+conda search scikit-learn
+conda search scikit-learn --info
+# conda install python=3.6.9 scikit-learn=0.22
+```
+
 </details>
