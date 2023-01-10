@@ -438,4 +438,10 @@ conda search scikit-learn --info
 # conda install python=3.6.9 scikit-learn=0.22
 ```
 
+### 107. Quick Tip: Clean, Transform, Reduce
+
+Clean Data (empty or missing data)\
+-> Transform Data(computer understands) \
+-> Reduce Data(resource manage)
+
 </details>
