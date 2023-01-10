@@ -444,4 +444,10 @@ Clean Data (empty or missing data)\
 -> Transform Data(computer understands) \
 -> Reduce Data(resource manage)
 
+### 108. Getting Your Data Ready: Convert Data To Numbers
+
+```py
+from sklearn.ensemble import RandomForestRegressor  # it can predict number
+```
+
 </details>
