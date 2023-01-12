@@ -463,4 +463,12 @@ from sklearn.ensemble import RandomForestRegressor  # it can predict number
 R_squared = model.score(X_test, y_test) # Return the coefficient of determination of the prediction.
 ```
 
+### 115. NEW: Choosing The Right Model For Your Data 2 (Regression)
+
+[Random Forest Explanation](https://williamkoehrsen.medium.com/random-forest-simple-explanation-377895a60d2d)
+
+### 116. Quick Note: Decision Trees
+
+RandomForrestRegressor is based on what we call a Decision Tree algorithm.
+
 </details>
