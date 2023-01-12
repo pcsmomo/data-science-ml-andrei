@@ -417,6 +417,8 @@ fig.savefig("heart-disease-analysis-plot-saved-with-code.png")
 
 ### 99. Scikit-learn Introduction
 
+[Scikit Learn - User Guide](https://scikit-learn.org/stable/user_guide.html)
+
 - An end-to-end Scikit-Learn workflow
 - Getting data ready (to be used with machine learning models)
 - Choosing a machine learning model
@@ -448,6 +450,17 @@ Clean Data (empty or missing data)\
 
 ```py
 from sklearn.ensemble import RandomForestRegressor  # it can predict number
+```
+
+### 114. NEW: Choosing The Right Model For Your Data
+
+- [scikit-learn Machine Learning Map](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+- [scikit-learn Datasets](https://scikit-learn.org/stable/datasets.html)
+- [scikit-learn Realworld dataset](https://scikit-learn.org/stable/datasets/real_world.html)
+  - [california housing](https://scikit-learn.org/stable/datasets/real_world.html#california-housing-dataset)
+
+```py
+R_squared = model.score(X_test, y_test) # Return the coefficient of determination of the prediction.
 ```
 
 </details>
