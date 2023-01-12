@@ -471,4 +471,16 @@ R_squared = model.score(X_test, y_test) # Return the coefficient of determinatio
 
 RandomForrestRegressor is based on what we call a Decision Tree algorithm.
 
+### 121. predict() vs predict_proba()
+
+```py
+# predict_proba() returns probabilities of a classification label
+clf.predict_proba(X_test[:5])
+# array([[0.89, 0.11],
+#        [0.49, 0.51],
+#        [0.43, 0.57],
+#        [0.84, 0.16],
+#        [0.18, 0.82]])
+```
+
 </details>
