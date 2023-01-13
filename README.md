@@ -503,4 +503,17 @@ clf.predict_proba(X_test[:5])
 
 [sklearn regression evaluation](https://scikit-learn.org/stable/modules/model_evaluation.html)
 
+### 125. Evaluating A Machine Learning Model 2 (Cross Validation)
+
+> Use this kind of scoring strategy to avoid getting lucky score
+
+```py
+from sklearn.model_selection import cross_val_score
+cross_val_score(clf, X, y, cv=5)
+# array([0.90322581, 0.83870968, 0.87096774, 0.9       , 0.86666667,
+#        0.8       , 0.76666667, 0.83333333, 0.73333333, 0.83333333])
+```
+
+![cross-validation](./images-for-summary/sklearn-cross-validation.png)
+
 </details>
