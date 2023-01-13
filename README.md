@@ -471,6 +471,22 @@ R_squared = model.score(X_test, y_test) # Return the coefficient of determinatio
 
 RandomForrestRegressor is based on what we call a Decision Tree algorithm.
 
+### 120. Making Predictions With Our Model
+
+```py
+# evaluation 1
+# Compare predictions to truth labels to evaluate the model
+y_preds = clf.predict(X_test)
+np.mean(y_preds == y_test)
+
+# evaluation 2
+clf.score(X_test, y_test)
+
+# evaluation 3
+from sklearn.metrics import accuracy_score
+accuracy_score(y_test, y_preds)
+```
+
 ### 121. predict() vs predict_proba()
 
 ```py
@@ -482,5 +498,9 @@ clf.predict_proba(X_test[:5])
 #        [0.84, 0.16],
 #        [0.18, 0.82]])
 ```
+
+### 123. NEW: Evaluating A Machine Learning Model (Score) Part 1
+
+[sklearn regression evaluation](https://scikit-learn.org/stable/modules/model_evaluation.html)
 
 </details>
