@@ -516,4 +516,23 @@ cross_val_score(clf, X, y, cv=5)
 
 ![cross-validation](./images-for-summary/sklearn-cross-validation.png)
 
+- [ROC and AUC, Clearly Explained!](https://www.youtube.com/watch?v=4jRBRDbJemM) by StatQuest
+- ROC documentation in Scikit-Learn (contains code examples)
+- How the ROC curve and AUC are calculated by Google's Machine Learning team
+
+### 130. Evaluating A Classification Model 4 (Confusion Matrix)
+
+#### Install seaborn package in Jupyter notebook
+
+```py
+# How to install a conda package into the current environment from a Jupyter Notebook
+import sys
+%conda install seaborn --yes --prefix {sys.prefix}
+```
+
+```sh
+# or install in terminal
+conda install seaborn
+```
+
 </details>
