@@ -535,4 +535,8 @@ import sys
 conda install seaborn
 ```
 
+### 132. Evaluating A Classification Model 6 (Classification Report)
+
+[3.3. Metrics and scoring: quantifying the quality of predictions](https://scikit-learn.org/stable/modules/model_evaluation.html)
+
 </details>
