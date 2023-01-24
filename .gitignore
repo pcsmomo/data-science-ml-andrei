@@ -135,3 +135,6 @@ dmypy.json
 # large data files
 /data/dog-vision*
 /data/bluebook*
+
+# large pickle file
+05_ideal_random_forest_regressor_model.pkl
