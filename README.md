@@ -641,4 +641,8 @@ Bulldozers price decision
 !unzip "drive/MyDrive/Colab Notebooks/data/dog-breed-identification.zip" -d "drive/MyDrive/Colab Notebooks/data/dog-vision"
 ```
 
+### 218. Using A GPU
+
+Runtime -> Change runtime type -> Hardware accelerator: GPU
+
 </details>
