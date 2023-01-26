@@ -621,4 +621,24 @@ Bulldozers price decision
 - saleprice: what the machine sold for at auction (only provided in train.csv)
 - saledate: the date of the sale
 
+## Section 14: Neural Networks: Deep Learning, Transfer Learning and TensorFlow 2
+
+### 211. Setting Up Google Colab
+
+- [Kaggle - Dog breed identification](https://www.kaggle.com/competitions/dog-breed-identification/data)
+- [Google Colab - External data example](https://colab.research.google.com/notebooks/io.ipynb)
+
+#### Let's start!
+
+- [Google Colab](https://colab.research.google.com/)
+- New notbook
+
+### 212. Google Colab Workspace
+
+[Google Colab FAQ](https://research.google.com/colaboratory/faq.html)
+
+```sh
+!unzip "drive/MyDrive/Colab Notebooks/data/dog-breed-identification.zip" -d "drive/MyDrive/Colab Notebooks/data/dog-vision"
+```
+
 </details>
