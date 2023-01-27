@@ -655,4 +655,9 @@ Runtime -> Change runtime type -> Hardware accelerator: GPU
 - [Tensorflow data loading](https://www.tensorflow.org/guide/data)
 - [Tensorflow Load and Preprocess images](https://www.tensorflow.org/tutorials/load_data/images)
 
+### 227. Turning Data Into Batches
+
+- [Yann Lecun batch size](https://twitter.com/ylecun/status/989610208497360896?lang=en)
+- Jeremy Howard batch size
+
 </details>
