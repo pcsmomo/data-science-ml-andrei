@@ -647,6 +647,7 @@ Runtime -> Change runtime type -> Hardware accelerator: GPU
 
 ### 221. Loading Our Data Labels
 
-Google Colab short-cut list: `Comm + M + H`
+- Google Colab short-cut list: `Comm + M + H`
+- See the docstring: `Shift + Comm + Space`
 
 </details>
