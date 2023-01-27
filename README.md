@@ -650,4 +650,9 @@ Runtime -> Change runtime type -> Hardware accelerator: GPU
 - Google Colab short-cut list: `Comm + M + H`
 - See the docstring: `Shift + Comm + Space`
 
+### 225. Preprocess Images
+
+- [Tensorflow data loading](https://www.tensorflow.org/guide/data)
+- [Tensorflow Load and Preprocess images](https://www.tensorflow.org/tutorials/load_data/images)
+
 </details>
