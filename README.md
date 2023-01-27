@@ -645,4 +645,8 @@ Bulldozers price decision
 
 Runtime -> Change runtime type -> Hardware accelerator: GPU
 
+### 221. Loading Our Data Labels
+
+Google Colab short-cut list: `Comm + M + H`
+
 </details>
