@@ -660,4 +660,13 @@ Runtime -> Change runtime type -> Hardware accelerator: GPU
 - [Yann Lecun batch size](https://twitter.com/ylecun/status/989610208497360896?lang=en)
 - Jeremy Howard batch size
 
+## Section 15: Storytelling + Communication: How To Present Your Work
+
+### 259. Communicating and sharing your work: Further reading
+
+- [How to Think About Communicating and Sharing Your Technical Work](https://www.mrdbourke.com/how-to-think-about-communicating-and-sharing-your-work/)
+- [Basecamp’s guide to internal communication](https://37signals.com/thoughts)
+- [You Should Blog by Jeremy Howard from fast.ai](https://www.fast.ai/posts/2020-01-16-fast_template.html)
+- [Why you (yes, you) should blog by Rachel Thomas from fast.ai](https://medium.com/@racheltho/why-you-yes-you-should-blog-7d2544ac1045)
+
 </details>
