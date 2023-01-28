@@ -675,6 +675,12 @@ Runtime -> Change runtime type -> Hardware accelerator: GPU
 - [mobilenet model](https://tfhub.dev/google/imagenet/mobilenet_v2_130_224/classification/5)
 - [PyTorch at Tesla by Andrej Karpathy, Tesla](https://www.youtube.com/watch?v=oBklltKXtDE&t=173s)
 
+### 233. Building A Deep Learning Model 2
+
+- [Keras - Python deeplearning API](https://keras.io/)
+- [TF-Keras - Sequential model](https://www.tensorflow.org/guide/keras/sequential_model)
+- [TF-Keras - Functional](https://www.tensorflow.org/guide/keras/functional)
+
 ## Section 15: Storytelling + Communication: How To Present Your Work
 
 ### 259. Communicating and sharing your work: Further reading
