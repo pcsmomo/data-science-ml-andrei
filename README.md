@@ -12,6 +12,8 @@ Complete Machine Learning &amp; Data Science Bootcamp by Andrei Neagoie
   - heart disease
 - 12-prj-supervised-regression
   - bulldozer price
+- 14-prj-neural-networks-tensorflow
+  - dog breed classification
 
 # Details
 
@@ -680,6 +682,19 @@ Runtime -> Change runtime type -> Hardware accelerator: GPU
 - [Keras - Python deeplearning API](https://keras.io/)
 - [TF-Keras - Sequential model](https://www.tensorflow.org/guide/keras/sequential_model)
 - [TF-Keras - Functional](https://www.tensorflow.org/guide/keras/functional)
+
+### 234. Building A Deep Learning Model 3
+
+- [Review: MobileNetV2 — Light Weight Model (Image Classification)](https://towardsdatascience.com/review-mobilenetv2-light-weight-model-image-classification-8febb490e61c)
+- [Convolutional Neural Networks — the ELI5 way](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
+- [Softmax function](https://en.wikipedia.org/wiki/Softmax_function)
+
+#### Layers
+
+|            | Binary classification | Multi-class classification |
+| ---------- | --------------------- | -------------------------- |
+| Activation | sigmoid               | softmax                    |
+| Loss       | Binary Cross Entropy  | Category Cross Entropy     |
 
 ## Section 15: Storytelling + Communication: How To Present Your Work
 
