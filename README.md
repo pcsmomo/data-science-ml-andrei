@@ -660,6 +660,21 @@ Runtime -> Change runtime type -> Hardware accelerator: GPU
 - [Yann Lecun batch size](https://twitter.com/ylecun/status/989610208497360896?lang=en)
 - Jeremy Howard batch size
 
+### 231. Optional: How machines learn and what's going on behind the scenes?
+
+- [How Machines Learn](https://www.youtube.com/watch?v=R9OHn5ZF4Uo)
+- [But what is a neural network? | Chapter 1, Deep learning](https://www.youtube.com/watch?v=aircAruvnKk)
+
+### 232. Building A Deep Learning Model
+
+- [Tensorflow Hub - machine model in cloud](https://www.tensorflow.org/hub)
+- [PyTorch Hub - machine model in cloud](https://pytorch.org/hub/)
+- [Paper Switch Code - machine model in cloud](https://paperswithcode.com/)
+
+- [TensorFlow Hub Dev](https://tfhub.dev/)
+- [mobilenet model](https://tfhub.dev/google/imagenet/mobilenet_v2_130_224/classification/5)
+- [PyTorch at Tesla by Andrej Karpathy, Tesla](https://www.youtube.com/watch?v=oBklltKXtDE&t=173s)
+
 ## Section 15: Storytelling + Communication: How To Present Your Work
 
 ### 259. Communicating and sharing your work: Further reading
