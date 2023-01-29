@@ -14,6 +14,8 @@ Complete Machine Learning &amp; Data Science Bootcamp by Andrei Neagoie
   - bulldozer price
 - 14-prj-neural-networks-tensorflow
   - dog breed classification
+  - 01-intro: (212. Google Colab Workspace - 230. Preparing Our Inputs and Outputs)
+  - 02-build-model: (232. Building A Deep Learning Model - )
 
 # Details
 
@@ -695,6 +697,10 @@ Runtime -> Change runtime type -> Hardware accelerator: GPU
 | ---------- | --------------------- | -------------------------- |
 | Activation | sigmoid               | softmax                    |
 | Loss       | Binary Cross Entropy  | Category Cross Entropy     |
+
+### 237. Evaluating Our Model
+
+[Tensorflow Tensorboard](https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/TensorBoard)
 
 ## Section 15: Storytelling + Communication: How To Present Your Work
 
