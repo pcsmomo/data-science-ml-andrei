@@ -712,6 +712,10 @@ Runtime -> Change runtime type -> Hardware accelerator: GPU
 
 <!-- <img src="./images-for-summary/neural-net-epoch_accuracy.svg"> -->
 
+### 242. Transform Predictions To Text
+
+[Tensowflow unbatch](https://www.tensorflow.org/api_docs/python/tf/data/experimental/unbatch)
+
 ## Section 15: Storytelling + Communication: How To Present Your Work
 
 ### 259. Communicating and sharing your work: Further reading
