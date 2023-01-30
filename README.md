@@ -706,6 +706,12 @@ Runtime -> Change runtime type -> Hardware accelerator: GPU
 
 [Tensorflow - Early Stopping Callback](https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/EarlyStopping)
 
+### 240. Evaluating Performance With TensorBoard
+
+![first trained model](./images-for-summary/neural-net-epoch_accuracy.svg)
+
+<!-- <img src="./images-for-summary/neural-net-epoch_accuracy.svg"> -->
+
 ## Section 15: Storytelling + Communication: How To Present Your Work
 
 ### 259. Communicating and sharing your work: Further reading
