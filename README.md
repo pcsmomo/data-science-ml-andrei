@@ -702,6 +702,10 @@ Runtime -> Change runtime type -> Hardware accelerator: GPU
 
 [Tensorflow Tensorboard](https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/TensorBoard)
 
+### 238. Preventing Overfitting
+
+[Tensorflow - Early Stopping Callback](https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/EarlyStopping)
+
 ## Section 15: Storytelling + Communication: How To Present Your Work
 
 ### 259. Communicating and sharing your work: Further reading
