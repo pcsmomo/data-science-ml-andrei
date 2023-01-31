@@ -716,6 +716,10 @@ Runtime -> Change runtime type -> Hardware accelerator: GPU
 
 [Tensowflow unbatch](https://www.tensorflow.org/api_docs/python/tf/data/experimental/unbatch)
 
+- [Tensorflow save and load](https://www.tensorflow.org/tutorials/keras/save_and_load#manually_save_weights)
+  - To save in the HDF5 format with a .h5 extension
+- [Tensowflow save and serialize ](https://www.tensorflow.org/guide/keras/save_and_serialize)
+
 ## Section 15: Storytelling + Communication: How To Present Your Work
 
 ### 259. Communicating and sharing your work: Further reading
