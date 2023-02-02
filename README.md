@@ -720,6 +720,27 @@ Runtime -> Change runtime type -> Hardware accelerator: GPU
   - To save in the HDF5 format with a .h5 extension
 - [Tensowflow save and serialize ](https://www.tensorflow.org/guide/keras/save_and_serialize)
 
+### 250. Making Predictions On Our Images
+
+Attempt to run it on local
+
+### Set up for poetry with pyenv
+
+- pyenv path `.zshrc`
+- `pyenv local 3.9.5`
+- `pip install poetry`
+- `python -m pip install --upgrade pip`
+- `python -m poetry install`
+  - fail!
+    > The currently activated Python version 3.9.15 is not supported by the project (3.9).\
+    > Trying to find and use a compatible version.\
+    > \
+    > Poetry was unable to find a compatible version. If you have one, you can explicitly use it via the "env use" command.\
+- `poetry env use /Users/noah/.pyenv/versions/3.9.15/bin/python3.9`
+  - ah... after chaging to `python = "3.9.15"` from `python = "3.9"` in `pyproject.toml` file, it works!
+- However, eventually there's an tensorflow install error on mac
+  - https://github.com/tensorflow/io/issues/1617
+
 ## Section 15: Storytelling + Communication: How To Present Your Work
 
 ### 259. Communicating and sharing your work: Further reading
