@@ -138,3 +138,6 @@ dmypy.json
 
 # large pickle file
 05_ideal_random_forest_regressor_model.pkl
+
+# dog-vision folder
+14-prj-neural-networks-tensorflow/dog-vision
