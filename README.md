@@ -741,6 +741,27 @@ Attempt to run it on local
 - However, eventually there's an tensorflow install error on mac
   - https://github.com/tensorflow/io/issues/1617
 
+### 251. Finishing Dog Vision: Where to next?
+
+1. [Trying another model from TensorFlow Hub](https://tfhub.dev/) - Perhaps a different model would perform better on our dataset. One option would be to experiment with a different pre-trained model from TensorFlow Hub or look into the [tf.keras.applications module](https://www.tensorflow.org/api_docs/python/tf/keras/applications).
+2. [Data augmentation](https://bair.berkeley.edu/blog/2019/06/07/data_aug/) - Take the training images and manipulate (crop, resize) or distort them (flip, rotate) to create even more training data for the model to learn from. Check out the [TensorFlow images](https://www.tensorflow.org/api_docs/python/tf/image) documentation for a whole bunch of functions you can use on images. A great idea would be to try and replicate the techniques in [this example cat vs. dog image classification notebook](https://github.com/google/eng-edu/blob/main/ml/pc/exercises/image_classification_part2.ipynb) for our dog breeds problem.
+3. [Fine-tuning](https://www.tensorflow.org/hub/tf2_saved_model#fine-tuning) - The model we used in this notebook was directly from TensorFlow Hub, we took what it had already learned from another dataset (ImageNet) and applied it to our own. Another option is to use what the model already knows and fine-tune this knowledge to our own dataset (pictures of dogs). This would mean all of the patterns within the model would be updated to be more specific to pictures of dogs rather than general images.
+
+If you're after more, one of the best ways to find out something is to search for something like:
+
+- "How to improve a TensorFlow 2.x image classification model?"
+- "TensorFlow 2.x image classification best practices"
+- "Transfer learning for image classification with TensorFlow 2.x"
+- "Deep learning project examples with TensorFlow 2.x"
+
+The TensorFlow developers have even put together [a massive compilation of all of their favourite TensorFlow and machine learning resources](https://www.tensorflow.org/resources/learn-ml).
+
+When you see an example you think might be beyond your reach (because it looks too complicated), remember if in doubt, run the code. Try and reproduce what you see. This is the best way to get hands-on and build your own knowledge.
+
+No one starts out knowing how to do everything single thing. They just get better are knowing what to look for.
+
+And remember, if you have any questions, don't forget to send @mrdbourke or @AndreiNeagoie a message on Twitter or in the Discord chat!
+
 ## Section 15: Storytelling + Communication: How To Present Your Work
 
 ### 259. Communicating and sharing your work: Further reading
