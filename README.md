@@ -771,4 +771,13 @@ And remember, if you have any questions, don't forget to send @mrdbourke or @And
 - [You Should Blog by Jeremy Howard from fast.ai](https://www.fast.ai/posts/2020-01-16-fast_template.html)
 - [Why you (yes, you) should blog by Rachel Thomas from fast.ai](https://medium.com/@racheltho/why-you-yes-you-should-blog-7d2544ac1045)
 
+## Section 19: Extra: Learn Advanced Statistics and Mathematics for FREE!
+
+### 374. Statistics and Mathematics
+
+As you see, you do not need to have a degree in Mathematics to be a great Data Scientist. If you have finished the course and you are looking to expand your knowledge, or you are simply curious, Daniel and I recommend the below free resources. In our opinion, they are the BEST resources for you to learn these topics and have fun along the way without falling asleep:
+
+- [Statistics Course](https://www.youtube.com/watch?v=zouPoc49xbk&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
+- [Mathematics Course](https://www.khanacademy.org/math)
+
 </details>
